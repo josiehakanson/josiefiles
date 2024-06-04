@@ -1,9 +1,9 @@
 # BEGIN PLOT
 Legend=1
 LogY=1
-Title=[Add meaningful title here]
-XLabel=[$\sqrt{s_{NN}}$(red)]
-YLabel=[N]
+Title=[Supplemental] J/$\psi$ and of high mass $e^{+}e^{-}$ in upc Au+Au collisions at $\sqrt{s_{NN}}$= 200 GeV
+XLabel=$\sqrt{s_{NN}}$(red)
+YLabel=N
 DrawOnly=/PHENIX_2009_I815217/d02-x01-y01 //lustre/isaac/proj/UTK0019/bhakans1/RIVETAnalyses/PHENIX_2009_I815217/Rivet.yoda/PHENIX_2009_I815217:cent=GEN/d02-x01-y01
 LegendOnly=/PHENIX_2009_I815217/d02-x01-y01 //lustre/isaac/proj/UTK0019/bhakans1/RIVETAnalyses/PHENIX_2009_I815217/Rivet.yoda/PHENIX_2009_I815217:cent=GEN/d02-x01-y01
 RatioPlot=1
