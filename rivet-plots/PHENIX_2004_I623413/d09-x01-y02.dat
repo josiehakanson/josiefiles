@@ -1,7 +1,7 @@
 # BEGIN PLOT
 Legend=1
 LogY=1
-Title=(Anti)proton invariant yields in each event centrality and $p_{T}$ bin measured at midrapidity, normalized to one rapidity unit.
+Title=(Anti)proton invariant yields in each event centrality and $p_{T}$ bin.
 XLabel=$p_{T}$ (GeV/$c$)
 YLabel=(1/2 $p_{T}$) d$^{2}$N/d$p_{T}$dy ($c^{2}$/GeV$^{2}$)
 DrawOnly=/PHENIX_2004_I623413/d09-x01-y02 //lustre/isaac/proj/UTK0019/bhakans1/RIVETAnalyses/PHENIX_2004_I623413/Rivet.yoda/PHENIX_2004_I623413:beam=AUAU130:cent=GEN/d09-x01-y02

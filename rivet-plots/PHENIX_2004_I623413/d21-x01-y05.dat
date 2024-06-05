@@ -1,7 +1,7 @@
 # BEGIN PLOT
 Legend=1
 LogY=1
-Title=For minimum-bias collisions, the inclusive $\Lambda$, inclusive $p$, and direct $p$ transverse momentum distributions are plotted together in the left panel. The equivalent comparison for inclusive $\bar{\Lambda}$, $\bar{p}$, and direct $\bar{p}$ transverse momentum distributions is in the right panel.
+Title=Pion invariant yields.
 XLabel=$p_{T}$ (GeV/$c$)
 YLabel=(1/2 $p_{T}$) d$^{2}$N/d$p_{T}$dy ($c^{2}$/GeV$^{2}$)
 DrawOnly=/PHENIX_2004_I623413/d21-x01-y05 //lustre/isaac/proj/UTK0019/bhakans1/RIVETAnalyses/PHENIX_2004_I623413/Rivet.yoda/PHENIX_2004_I623413:beam=AUAU130:cent=GEN/d21-x01-y05
